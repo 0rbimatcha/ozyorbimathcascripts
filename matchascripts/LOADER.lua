@@ -13,41 +13,9 @@
 
 
 
-
-
-
-
-
-
-
-
- .S_sSSs      sSSs_sSSs            sSSs_sSSs     .S_sSSs      sSSs   .S_sSSs            sSSs    sSSs_sSSs     .S       S.    .S_sSSs      sSSs    sSSs          sSSs    sSSs_sSSs     .S_sSSs      sSSs         .S    S.     sSSs   .S_sSSs      sSSs          sSSSSs    sSSs  sdSS_SSSSSSbs        S.        sSSs_sSSs      sSSs  sdSS_SSSSSSbs  
-.SS~YS%%b    d%%SP~YS%%b          d%%SP~YS%%b   .SS~YS%%b    d%%SP  .SS~YS%%b          d%%SP   d%%SP~YS%%b   .SS       SS.  .SS~YS%%b    d%%SP   d%%SP         d%%SP   d%%SP~YS%%b   .SS~YS%%b    d%%SP        .SS    SS.   d%%SP  .SS~YS%%b    d%%SP         d%%%%SP   d%%SP  YSSS~S%SSSSSP        SS.      d%%SP~YS%%b    d%%SP  YSSS~S%SSSSSP  
-S%S   `S%b  d%S'     `S%b        d%S'     `S%b  S%S   `S%b  d%S'    S%S   `S%b        d%S'    d%S'     `S%b  S%S       S%S  S%S   `S%b  d%S'    d%S'          d%S'    d%S'     `S%b  S%S   `S%b  d%S'          S%S    S%S  d%S'    S%S   `S%b  d%S'          d%S'      d%S'         S%S             S%S     d%S'     `S%b  d%S'         S%S       
-S%S    S%S  S%S       S%S        S%S       S%S  S%S    S%S  S%S     S%S    S%S        S%|     S%S       S%S  S%S       S%S  S%S    S%S  S%S     S%S           S%S     S%S       S%S  S%S    S%S  S%S           S%S    S%S  S%S     S%S    S%S  S%S           S%S       S%S          S%S             S%S     S%S       S%S  S%|          S%S       
-S%S    S&S  S&S       S&S        S&S       S&S  S%S    d*S  S&S     S%S    S&S        S&S     S&S       S&S  S&S       S&S  S%S    d*S  S&S     S&S           S&S     S&S       S&S  S%S    S&S  S&S           S%S SSSS%S  S&S     S%S    d*S  S&S           S&S       S&S          S&S             S&S     S&S       S&S  S&S          S&S       
-S&S    S&S  S&S       S&S        S&S       S&S  S&S   .S*S  S&S_Ss  S&S    S&S        Y&Ss    S&S       S&S  S&S       S&S  S&S   .S*S  S&S     S&S_Ss        S&S     S&S       S&S  S&S    S&S  S&S_Ss        S&S  SSS&S  S&S_Ss  S&S   .S*S  S&S_Ss        S&S       S&S_Ss       S&S             S&S     S&S       S&S  Y&Ss         S&S       
-S&S    S&S  S&S       S&S        S&S       S&S  S&S_sdSSS   S&S~SP  S&S    S&S        `S&&S   S&S       S&S  S&S       S&S  S&S_sdSSS   S&S     S&S~SP        S&S     S&S       S&S  S&S    S&S  S&S~SP        S&S    S&S  S&S~SP  S&S_sdSSS   S&S~SP        S&S       S&S~SP       S&S             S&S     S&S       S&S  `S&&S        S&S       
-S&S    S&S  S&S       S&S        S&S       S&S  S&S~YSSY    S&S     S&S    S&S          `S*S  S&S       S&S  S&S       S&S  S&S~YSY%b   S&S     S&S           S&S     S&S       S&S  S&S    S&S  S&S           S&S    S&S  S&S     S&S~YSY%b   S&S           S&S sSSs  S&S          S&S             S&S     S&S       S&S    `S*S       S&S       
-S*S    S*S  S*b       d*S        S*b       d*S  S*S         S*b     S*S    S*S           l*S  S*b       d*S  S*b       d*S  S*S   `S%b  S*b     S*b           S*b     S*b       d*S  S*S    d*S  S*b           S*S    S*S  S*b     S*S   `S%b  S*b           S*b `S%%  S*b          S*S             S*b     S*b       d*S     l*S       S*S       
-S*S    S*S  S*S.     .S*S        S*S.     .S*S  S*S         S*S.    S*S    S*S          .S*P  S*S.     .S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S.          S*S.    S*S.     .S*S  S*S   .S*S  S*S.          S*S    S*S  S*S.    S*S    S%S  S*S.          S*S   S%  S*S.         S*S             S*S.    S*S.     .S*S    .S*P       S*S       
-S*S    S*S   SSSbs_sdSSS          SSSbs_sdSSS   S*S          SSSbs  S*S    S*S        sSS*S    SSSbs_sdSSS    SSSbs_sdSSS   S*S    S&S   SSSbs   SSSbs         SSSbs   SSSbs_sdSSS   S*S_sdSSS    SSSbs        S*S    S*S   SSSbs  S*S    S&S   SSSbs         SS_sSSS   SSSbs       S*S              SSSbs   SSSbs_sdSSS   sSS*S        S*S       
-S*S    SSS    YSSP~YSSY            YSSP~YSSY    S*S           YSSP  S*S    SSS        YSS'      YSSP~YSSY      YSSP~YSSY    S*S    SSS    YSSP    YSSP          YSSP    YSSP~YSSY    SSS~YSSY      YSSP        SSS    S*S    YSSP  S*S    SSS    YSSP          Y~YSSY    YSSP       S*S               YSSP    YSSP~YSSY    YSS'         S*S       
-SP                                              SP                  SP                                                      SP                                                                                        SP           SP                                               SP                                                  SP        
-Y                                               Y                   Y                                                       Y                                                                                         Y            Y                                                Y                                                   Y         
-                                                                                                                                                                                                                                                                                                                                                  
-
-
-
-
-
-
-
-
-
-
-
-
+    _     _  _  __       __ _     _  __ __    __ _  _  __       __ _  __       __ _____       _  _____ | 
+|\|/ \   / \|_)|_ |\|   (_ / \| ||_)/  |_    /  / \| \|_    |_||_ |_)|_       /__|_  |    |  / \(_  |  | 
+| |\_/   \_/|  |__| |   __)\_/|_|| \\__|__   \__\_/|_/|__   | ||__| \|__ /    \_||__ |    |__\_/__) |  o 
 
 
 
