@@ -1207,4 +1207,4 @@ function UILib:Destroy()
 end
 
 
-return UILib
+_G["CrimUI"] = UILib
